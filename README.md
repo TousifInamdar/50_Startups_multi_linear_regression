@@ -1,1 +1,1 @@
-# 50_multi_linear_regression
+# 50_startups_multi_linear_regression
